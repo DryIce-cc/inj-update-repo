@@ -6,5 +6,3 @@ quietTime: 1805-2400 135:1145-1218
 openCere: 2609251200
 # 静默运行
 silentRun: false
-# 不要运行
-noRun: false
