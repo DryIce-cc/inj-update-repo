@@ -1,8 +1,8 @@
 # 版本
 version: 2
 # 安静时段
-quietTime: 1805-2400 135:1145-1218         1730-1735
+quietTime: 1805-2400 135:1145-1218
 # 开场日期时间
-openCere: 260827 1725
+openCere: 260827 1855
 # 静默运行
 silentRun: false
