@@ -1,6 +1,7 @@
 # 版本
-version: 4
+version: 5
 # 安静时段
+# quietTime: 1805-2400 135:1145-1218
 quietTime: 1805-2400
 # 开场日期时间
 openCere: 260908 1700
