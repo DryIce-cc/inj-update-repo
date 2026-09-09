@@ -6,4 +6,4 @@ quietTime:
 # 开场日期时间
 openCere: 260308 1700
 # 静默运行
-silentRun: true
+silentRun: false
